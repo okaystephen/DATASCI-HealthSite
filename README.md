@@ -1,5 +1,8 @@
 # Async Exercise: Health site near you
-<b>DATASCI S12</b>
+
+Notebook: [SALAMANTE-HealthCenter.ipynb](https://github.com/okaystephen/DATASCI-HealthSite/blob/main/SALAMANTE-HealthCenter.ipynb)
+
+Images:
 
 ## Instructions
 - Your task is to use the PH Administrative Areas and Health Sites datasets, and produce an effective visualization for the following question:
